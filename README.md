@@ -1,4 +1,7 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![](https://github.com/EveCoffee/github-action-test/workflows/github-pages/badge.svg)
 
 ## Available Scripts
 
